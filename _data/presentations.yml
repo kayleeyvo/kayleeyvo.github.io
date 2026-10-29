@@ -1,0 +1,33 @@
+# talks and posters, listed newest first on the presentations page
+# files live in https://github.com/kayleeyvo/presentations
+
+- title: Variational Boosting for Physics-Informed Neural Networks
+  authors: Kaylee Vo, Pavlos Protopapas
+  venue: SCML 2026
+  location: University of Bath, UK
+  date: Sep 14 – 17, 2026
+  type: Talk
+  preview: /assets/img/presentations/scml.png
+  slides: https://github.com/kayleeyvo/presentations/blob/main/2026-09-scml/SCML_2026_Presentation.pdf
+  paper: https://arxiv.org/abs/2607.23940
+
+- title: Trajectory-Aware Prompt Optimization for AI Agents
+  authors: Michael Culver, Jinyu Han, Jerry Kim, Matthew Michel, Kaylee Vo
+  venue: RDI Agentic AI Summit
+  location: UC Berkeley
+  date: Aug 1 – 2, 2026
+  type: Poster
+  preview: /assets/img/presentations/rdi-agentic-ai-summit.png
+  poster: https://github.com/kayleeyvo/presentations/blob/main/2026-08-rdi-agentic-ai-summit/RDI_Agentic_Summit_Poster.pdf
+  source: https://github.com/kayleeyvo/presentations/tree/main/2026-08-rdi-agentic-ai-summit/source/RDI_Agentic_Summit_Poster
+
+- title: Variational Boosting for Physics-Informed Neural Networks
+  authors: Kaylee Vo, Pavlos Protopapas
+  venue: STAI-X 2026
+  location: Harvard University
+  date: Jul 31 – Aug 1, 2026
+  type: Poster
+  preview: /assets/img/presentations/stai-x.png
+  poster: https://github.com/kayleeyvo/presentations/blob/main/2026-07-stai-x/STAI_X_2026_Poster.pdf
+  source: https://github.com/kayleeyvo/presentations/tree/main/2026-07-stai-x/source/STAI_X_2026_Poster
+  paper: https://arxiv.org/abs/2607.23940

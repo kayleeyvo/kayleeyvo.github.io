@@ -1,0 +1,11 @@
+# courses, listed newest first on the teaching page
+
+- course: APMTH 115
+  title: Mathematical Modeling
+  role: Teaching Fellow
+  instructor: Prof. Zhiming Kuang
+  school: Harvard SEAS
+  term: Spring 2026
+  description: Modeling with ODEs, Markov chains, Monte Carlo, diffusion, optimization, optimal control, and statistical models, with applications to population dynamics, epidemics, queuing, and traffic.
+  course_page: https://my.harvard.edu/course/APMTH115/2027-Spring/Full-Term/001
+  code: https://github.com/zhimingkuang/Harvard-AM-115
