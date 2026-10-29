@@ -23,6 +23,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-presentations",
+          title: "presentations",
+          description: "talks and posters in reversed chronological order",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "courses I have taught in reversed chronological order",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-resume",
           title: "resume",
           description: "",
@@ -140,11 +154,11 @@ ninja.data = [{
             window.location.href = "/blog/2024/conjugate-priors/";
           
         },
-      },{id: "post-medium",
+      },{id: "post-attention-required-cloudflare",
         
-          title: 'Medium <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Attention Required! | Cloudflare <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "ML Classification Model to Predict Kickstarter Campaign Success “Predicting the future isn’t magic, it’s artificial intelligence.” — Dave Waters Everyone loves the idea of being …",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -221,14 +235,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6B%76%6F@%73%65%61%73.%68%61%72%76%61%72%64.%65%64%75", "_blank");
+          window.open("mailto:%6B%61%76%34%31%38@%67.%68%61%72%76%61%72%64.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/kayleeisokay", "_blank");
+          window.open("https://github.com/kayleeyvo", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -238,11 +252,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/kayv0", "_blank");
         },
       },{
-        id: 'social-medium',
-        title: 'Medium',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://medium.com/@kayleeisokay", "_blank");
+          window.open("https://scholar.google.com/citations?user=F54hFYwAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',

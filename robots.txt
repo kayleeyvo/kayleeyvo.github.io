@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kayleeisokay.github.io/sitemap.xml
+Sitemap: https://kayleeyvo.github.io/sitemap.xml
